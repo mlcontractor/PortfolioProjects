@@ -25,11 +25,9 @@ FROM PortfolioProject..NashvilleHousing
 
 SELECT *
 FROM PortfolioProject..NashvilleHousing
---WHERE PropertyAddress IS NULL
 ORDER BY ParcelID
 
--- If the parcel ID is the same, you can use the same address
--- You will have to do a self join
+-- Self join on ParcelID since the ParcelID is unique to each address
 
 SELECT a. ParcelID, a.PropertyAddress, b.ParcelID, b.PropertyAddress, ISNULL(a.PropertyAddress,b.PropertyAddress)
 FROM PortfolioProject..NashvilleHousing a
@@ -49,7 +47,7 @@ WHERE a.PropertyAddress IS NULL
 
 
 ----------------------------------------------------------------------------------------------------------------------
--- Breaking Out Address Into Individual Columns (Address, City, State)
+-- Separate Address Into Individual Columns (Address, City, State)
 
 SELECT *
 FROM PortfolioProject..NashvilleHousing
