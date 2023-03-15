@@ -1,0 +1,2002 @@
+[
+    {
+        "property_id": "1452401180",
+        "list_price": 147250,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m150834490s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "basic_opt_in",
+            "products": [
+                "core.agent",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2950908540",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "930-Olive-Dr-Apt-6_Bakersfield_CA_93308_M14524-01180",
+        "price_reduced_amount": 7750,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2950908540",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 1306,
+            "sqft": 1276,
+            "year_built": 1976,
+            "sold_price": 54500,
+            "sold_date": "1991-08-27",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=930%20Olive%20Dr%20Apt%206%2C%20Bakersfield%2C%20CA%2093308&size=640x480&source=outdoor&signature=18oCg_B55trsNd0ERoYqS2je_J4=",
+            "address": {
+                "line": "930 Olive Dr Apt 6",
+                "postal_code": "93308",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.413052,
+                    "lon": -119.041105
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "61A3720366BE7F6B70CC2F9313819DAF"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": true,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": true,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2022-12-24T00:10:25Z",
+        "last_update_date": "2023-03-07T09:03:55Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m150834490s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m3510524197s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "community_security_features",
+            "dishwasher",
+            "recreation_facilities",
+            "community_swimming_pool",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "gated_community",
+            "security"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Miramar International - Oleander Branch"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m150834490s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m3510524197s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "9536026996",
+        "list_price": 279900,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b4019012776s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": "Re/Max Tehachapi"
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "advantage_brand",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "listing_owner_brand.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2947558034",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "1300-R-St-Unit-6_Bakersfield_CA_93301_M95360-26996",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2947558034",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2944554030",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "564454916",
+                    "status": "sold",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": null,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 3,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 789,
+            "sqft": 1859,
+            "year_built": 2011,
+            "sold_price": null,
+            "sold_date": null,
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1300%20R%20Street%20St%20Unit%206%2C%20Bakersfield%2C%20CA%2093301&size=640x480&source=outdoor&signature=c0sW8LInalH4P4Fzx94fb-SdIbk=",
+            "address": {
+                "line": "1300 R Street St Unit 6",
+                "postal_code": "93301",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.369812,
+                    "lon": -119.009321
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "A9557D065A098A2B9E20C8C5AD477085"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2022-09-08T15:33:26Z",
+        "last_update_date": "2022-09-10T15:13:55Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b4019012776s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b2875754669s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "den_or_office",
+            "dishwasher",
+            "family_room",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "waterfront",
+            "groundscare"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": "https://ap.rdcpix.com/7b57f9357946bde045f8b4e5d26888afo-b2274465705s.jpg",
+                "name": "RE MAX Tehachapi"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b4019012776s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b2875754669s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "1594674325",
+        "list_price": 199900,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m1425015584s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "basic_opt_in",
+            "products": [
+                "core.agent",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2953392365",
+        "matterport": false,
+        "virtual_tours": [
+            {
+                "href": "https://youtu.be/S6L4lBk0eGw",
+                "type": null
+            }
+        ],
+        "status": "for_sale",
+        "permalink": "4900-Nordic-Dr-Apt-6_Bakersfield_CA_93309_M15946-74325",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2953392365",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2932649800",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": null,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 1,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 174240,
+            "sqft": 1356,
+            "year_built": 1974,
+            "sold_price": 45000,
+            "sold_date": "2018-09-06",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=4900%20Nordic%20Dr%20Apt%206%2C%20Bakersfield%2C%20CA%2093309&size=640x480&source=outdoor&signature=nj7gV8_mnAQ2P6ur7yfEUnvWyRQ=",
+            "address": {
+                "line": "4900 Nordic Dr Apt 6",
+                "postal_code": "93309",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.34618,
+                    "lon": -119.05762
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "66135CC05B128559D2211A602DE9E9A1"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": true,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-03-10T18:05:44Z",
+        "last_update_date": "2023-03-10T17:09:39Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m1425015584s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m2226653196s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "recreation_facilities",
+            "community_swimming_pool",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "vaulted_ceiling",
+            "front_porch",
+            "views",
+            "shopping"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Agentcor-Big Block Realty"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m1425015584s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m2226653196s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "1625715969",
+        "list_price": 379000,
+        "primary": null,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b3064056772s.jpg"
+        },
+        "source": {
+            "id": "AVCA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "advantage_brand",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "listing_owner_brand.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2951423984",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "10213-Spanish-Moss-Dr_Bakersfield_CA_93306_M16257-15969",
+        "price_reduced_amount": 10000,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2952088107",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2951424859",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "2951423984",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "2925098425",
+                    "status": "sold",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": null,
+            "baths_1qtr": null,
+            "baths_3qtr": 1,
+            "garage": 2,
+            "stories": 1,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 7405,
+            "sqft": 1598,
+            "year_built": 2021,
+            "sold_price": 1205500,
+            "sold_date": "2019-09-09",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=10213%20Spanish%20Moss%20Dr%2C%20Bakersfield%2C%20CA%2093306&size=640x480&source=outdoor&signature=Mb7ZvzpCrc_exq0wbfGU2MzCov4=",
+            "address": {
+                "line": "10213 Spanish Moss Dr",
+                "postal_code": "93306",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.401884,
+                    "lon": -118.890122
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "36736F5CD45B58C20A64526D2552441C"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": [
+            {
+                "start_date": "2023-03-18T11:00:00",
+                "end_date": "2023-03-18T14:00:00",
+                "description": null,
+                "methods": [
+                    "in_person"
+                ],
+                "time_zone": "PST",
+                "dst": true
+            }
+        ],
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": true,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-01-13T18:06:03Z",
+        "last_update_date": "2023-03-07T15:23:43Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b3064056772s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b2334783823s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "community_park",
+            "community_security_features",
+            "dishwasher",
+            "family_room",
+            "fireplace",
+            "hardwood_floors",
+            "laundry_room",
+            "recreation_facilities",
+            "single_story",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "solar_system",
+            "gated_community",
+            "park",
+            "security"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": "https://ap.rdcpix.com/c280600cea0b6c7925a4966c24866b28o-b2274465705s.jpg",
+                "name": "RE MAX All-Pro"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b3064056772s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b2334783823s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "2037509767",
+        "list_price": 290000,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m733304921s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "essentials",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2951869903",
+        "matterport": false,
+        "virtual_tours": [
+            {
+                "href": "https://booking.sellingimage.com/v2/DRMXOBN/unbranded",
+                "type": null
+            }
+        ],
+        "status": "for_sale",
+        "permalink": "5500-Lennox-Ave-Apt-9_Bakersfield_CA_93309_M20375-09767",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2951869903",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2942242763",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "601401020",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "587170400",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "587145044",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 2178,
+            "sqft": 1546,
+            "year_built": 1982,
+            "sold_price": 149500,
+            "sold_date": "2004-04-30",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=5500%20Lennox%20Ave%20Apt%209%2C%20Bakersfield%2C%20CA%2093309&size=640x480&source=outdoor&signature=6SnlCb9b6FxUDqg58zVYaZYYayw=",
+            "address": {
+                "line": "5500 Lennox Ave Apt 9",
+                "postal_code": "93309",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.360878,
+                    "lon": -119.064394
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "640D15CC266CA045937B888BCD50E4EC"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": true,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-01-28T00:14:39Z",
+        "last_update_date": "2023-02-15T11:31:48Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m733304921s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m4100613484s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "community_security_features",
+            "dishwasher",
+            "fireplace",
+            "recreation_facilities",
+            "community_swimming_pool",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "vaulted_ceiling",
+            "private_bathroom",
+            "floor_plan",
+            "gated_community",
+            "security",
+            "shopping"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Coldwell Banker Preferred, Realtors"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m733304921s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m4100613484s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "2456486050",
+        "list_price": 350000,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m4066244199s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "essentials",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2952413123",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "6504-Hidden-Cove-Ct_Bakersfield_CA_93307_M24564-86050",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2952413123",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2943468289",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 3484,
+            "sqft": 1341,
+            "year_built": 1985,
+            "sold_price": 72000,
+            "sold_date": "1986-11-26",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=6504%20Hidden%20Cove%20Ct%2C%20Bakersfield%2C%20CA%2093307&size=640x480&source=outdoor&signature=XJKezcb9QnLA-t-4cUeetofCg84=",
+            "address": {
+                "line": "6504 Hidden Cove Ct",
+                "postal_code": "93307",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.2951,
+                    "lon": -119.023378
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "9F170127786373573EF135FF28E7C8CE"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-02-14T22:41:50Z",
+        "last_update_date": "2023-03-01T09:23:03Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m4066244199s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m1009065971s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "dishwasher",
+            "fireplace",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "open_house",
+            "shopping"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Sierra Central Real Estate"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m4066244199s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m1009065971s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "1452401180",
+        "list_price": 147250,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m150834490s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "basic_opt_in",
+            "products": [
+                "core.agent",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2950908540",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "930-Olive-Dr-Apt-6_Bakersfield_CA_93308_M14524-01180",
+        "price_reduced_amount": 7750,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2950908540",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 1306,
+            "sqft": 1276,
+            "year_built": 1976,
+            "sold_price": 54500,
+            "sold_date": "1991-08-27",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=930%20Olive%20Dr%20Apt%206%2C%20Bakersfield%2C%20CA%2093308&size=640x480&source=outdoor&signature=18oCg_B55trsNd0ERoYqS2je_J4=",
+            "address": {
+                "line": "930 Olive Dr Apt 6",
+                "postal_code": "93308",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.413052,
+                    "lon": -119.041105
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "61A3720366BE7F6B70CC2F9313819DAF"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": true,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": true,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2022-12-24T00:10:25Z",
+        "last_update_date": "2023-03-07T09:03:55Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m150834490s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m3510524197s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "community_security_features",
+            "dishwasher",
+            "recreation_facilities",
+            "community_swimming_pool",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "gated_community",
+            "security"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Miramar International - Oleander Branch"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m150834490s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/f568eae6f66680064977ae18279e553al-m3510524197s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "9536026996",
+        "list_price": 279900,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b4019012776s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": "Re/Max Tehachapi"
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "advantage_brand",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "listing_owner_brand.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2947558034",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "1300-R-St-Unit-6_Bakersfield_CA_93301_M95360-26996",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2947558034",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2944554030",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "564454916",
+                    "status": "sold",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": null,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 3,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 789,
+            "sqft": 1859,
+            "year_built": 2011,
+            "sold_price": null,
+            "sold_date": null,
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1300%20R%20Street%20St%20Unit%206%2C%20Bakersfield%2C%20CA%2093301&size=640x480&source=outdoor&signature=c0sW8LInalH4P4Fzx94fb-SdIbk=",
+            "address": {
+                "line": "1300 R Street St Unit 6",
+                "postal_code": "93301",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.369812,
+                    "lon": -119.009321
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "A9557D065A098A2B9E20C8C5AD477085"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2022-09-08T15:33:26Z",
+        "last_update_date": "2022-09-10T15:13:55Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b4019012776s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b2875754669s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "den_or_office",
+            "dishwasher",
+            "family_room",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "waterfront",
+            "groundscare"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": "https://ap.rdcpix.com/7b57f9357946bde045f8b4e5d26888afo-b2274465705s.jpg",
+                "name": "RE MAX Tehachapi"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b4019012776s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/f3de4aea48afb5ffc77d6ceb0e7ebb09l-b2875754669s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "1594674325",
+        "list_price": 199900,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m1425015584s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "basic_opt_in",
+            "products": [
+                "core.agent",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2953392365",
+        "matterport": false,
+        "virtual_tours": [
+            {
+                "href": "https://youtu.be/S6L4lBk0eGw",
+                "type": null
+            }
+        ],
+        "status": "for_sale",
+        "permalink": "4900-Nordic-Dr-Apt-6_Bakersfield_CA_93309_M15946-74325",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2953392365",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2932649800",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 2,
+            "baths_full": 2,
+            "baths_half": null,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 1,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 174240,
+            "sqft": 1356,
+            "year_built": 1974,
+            "sold_price": 45000,
+            "sold_date": "2018-09-06",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=4900%20Nordic%20Dr%20Apt%206%2C%20Bakersfield%2C%20CA%2093309&size=640x480&source=outdoor&signature=nj7gV8_mnAQ2P6ur7yfEUnvWyRQ=",
+            "address": {
+                "line": "4900 Nordic Dr Apt 6",
+                "postal_code": "93309",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.34618,
+                    "lon": -119.05762
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "66135CC05B128559D2211A602DE9E9A1"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": true,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-03-10T18:05:44Z",
+        "last_update_date": "2023-03-10T17:09:39Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m1425015584s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m2226653196s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "recreation_facilities",
+            "community_swimming_pool",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "vaulted_ceiling",
+            "front_porch",
+            "views",
+            "shopping"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Agentcor-Big Block Realty"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m1425015584s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/8d993c7a4ce63cc938d584190519d65fl-m2226653196s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "1625715969",
+        "list_price": 379000,
+        "primary": null,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b3064056772s.jpg"
+        },
+        "source": {
+            "id": "AVCA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "advantage_brand",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "listing_owner_brand.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2951423984",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "10213-Spanish-Moss-Dr_Bakersfield_CA_93306_M16257-15969",
+        "price_reduced_amount": 10000,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2952088107",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2951424859",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "2951423984",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "2925098425",
+                    "status": "sold",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": null,
+            "baths_1qtr": null,
+            "baths_3qtr": 1,
+            "garage": 2,
+            "stories": 1,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 7405,
+            "sqft": 1598,
+            "year_built": 2021,
+            "sold_price": 1205500,
+            "sold_date": "2019-09-09",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=10213%20Spanish%20Moss%20Dr%2C%20Bakersfield%2C%20CA%2093306&size=640x480&source=outdoor&signature=Mb7ZvzpCrc_exq0wbfGU2MzCov4=",
+            "address": {
+                "line": "10213 Spanish Moss Dr",
+                "postal_code": "93306",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.401884,
+                    "lon": -118.890122
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "36736F5CD45B58C20A64526D2552441C"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": [
+            {
+                "start_date": "2023-03-18T11:00:00",
+                "end_date": "2023-03-18T14:00:00",
+                "description": null,
+                "methods": [
+                    "in_person"
+                ],
+                "time_zone": "PST",
+                "dst": true
+            }
+        ],
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": true,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-01-13T18:06:03Z",
+        "last_update_date": "2023-03-07T15:23:43Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b3064056772s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b2334783823s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "community_park",
+            "community_security_features",
+            "dishwasher",
+            "family_room",
+            "fireplace",
+            "hardwood_floors",
+            "laundry_room",
+            "recreation_facilities",
+            "single_story",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "solar_system",
+            "gated_community",
+            "park",
+            "security"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": "https://ap.rdcpix.com/c280600cea0b6c7925a4966c24866b28o-b2274465705s.jpg",
+                "name": "RE MAX All-Pro"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b3064056772s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/a88e3ecc2e76fb3fe9e0ea39db725a06l-b2334783823s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "2037509767",
+        "list_price": 290000,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m733304921s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "essentials",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2951869903",
+        "matterport": false,
+        "virtual_tours": [
+            {
+                "href": "https://booking.sellingimage.com/v2/DRMXOBN/unbranded",
+                "type": null
+            }
+        ],
+        "status": "for_sale",
+        "permalink": "5500-Lennox-Ave-Apt-9_Bakersfield_CA_93309_M20375-09767",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2951869903",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2942242763",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "601401020",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "587170400",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                },
+                {
+                    "listing_id": "587145044",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 2178,
+            "sqft": 1546,
+            "year_built": 1982,
+            "sold_price": 149500,
+            "sold_date": "2004-04-30",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=5500%20Lennox%20Ave%20Apt%209%2C%20Bakersfield%2C%20CA%2093309&size=640x480&source=outdoor&signature=6SnlCb9b6FxUDqg58zVYaZYYayw=",
+            "address": {
+                "line": "5500 Lennox Ave Apt 9",
+                "postal_code": "93309",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.360878,
+                    "lon": -119.064394
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "640D15CC266CA045937B888BCD50E4EC"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": true,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-01-28T00:14:39Z",
+        "last_update_date": "2023-02-15T11:31:48Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m733304921s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m4100613484s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "community_security_features",
+            "dishwasher",
+            "fireplace",
+            "recreation_facilities",
+            "community_swimming_pool",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "vaulted_ceiling",
+            "private_bathroom",
+            "floor_plan",
+            "gated_community",
+            "security",
+            "shopping"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Coldwell Banker Preferred, Realtors"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m733304921s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/8129f7b39a969c5295639d91b6a91d9al-m4100613484s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    },
+    {
+        "property_id": "2456486050",
+        "list_price": 350000,
+        "primary": true,
+        "rent_to_own": null,
+        "primary_photo": {
+            "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m4066244199s.jpg"
+        },
+        "source": {
+            "id": "BACA",
+            "agents": [
+                {
+                    "office_name": null
+                }
+            ],
+            "type": "mls",
+            "spec_id": null,
+            "plan_id": null
+        },
+        "community": null,
+        "products": {
+            "brand_name": "essentials",
+            "products": [
+                "core.agent",
+                "core.broker",
+                "co_broke"
+            ]
+        },
+        "listing_id": "2952413123",
+        "matterport": false,
+        "virtual_tours": null,
+        "status": "for_sale",
+        "permalink": "6504-Hidden-Cove-Ct_Bakersfield_CA_93307_M24564-86050",
+        "price_reduced_amount": null,
+        "other_listings": {
+            "rdc": [
+                {
+                    "listing_id": "2952413123",
+                    "status": "for_sale",
+                    "listing_key": null,
+                    "primary": true
+                },
+                {
+                    "listing_id": "2943468289",
+                    "status": "off_market",
+                    "listing_key": null,
+                    "primary": null
+                }
+            ]
+        },
+        "description": {
+            "beds": 3,
+            "baths": 3,
+            "baths_full": 2,
+            "baths_half": 1,
+            "baths_1qtr": null,
+            "baths_3qtr": null,
+            "garage": 2,
+            "stories": 2,
+            "type": "condos",
+            "sub_type": "condo",
+            "lot_sqft": 3484,
+            "sqft": 1341,
+            "year_built": 1985,
+            "sold_price": 72000,
+            "sold_date": "1986-11-26",
+            "name": null
+        },
+        "location": {
+            "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=6504%20Hidden%20Cove%20Ct%2C%20Bakersfield%2C%20CA%2093307&size=640x480&source=outdoor&signature=XJKezcb9QnLA-t-4cUeetofCg84=",
+            "address": {
+                "line": "6504 Hidden Cove Ct",
+                "postal_code": "93307",
+                "state": "California",
+                "state_code": "CA",
+                "city": "Bakersfield",
+                "coordinate": {
+                    "lat": 35.2951,
+                    "lon": -119.023378
+                }
+            },
+            "county": {
+                "name": "Kern",
+                "fips_code": "06029"
+            }
+        },
+        "tax_record": {
+            "public_record_id": "9F170127786373573EF135FF28E7C8CE"
+        },
+        "lead_attributes": {
+            "show_contact_an_agent": true,
+            "opcity_lead_attributes": {
+                "cashback_enabled": false,
+                "flip_the_market_enabled": false
+            },
+            "lead_type": "co_broke",
+            "ready_connect_mortgage": {
+                "show_contact_a_lender": true,
+                "show_veterans_united": true
+            },
+            "flip_the_market_enabled": false
+        },
+        "open_houses": null,
+        "flags": {
+            "is_coming_soon": null,
+            "is_pending": null,
+            "is_foreclosure": null,
+            "is_contingent": null,
+            "is_new_construction": null,
+            "is_new_listing": false,
+            "is_price_reduced": null,
+            "is_plan": null,
+            "is_subdivision": null
+        },
+        "list_date": "2023-02-14T22:41:50Z",
+        "last_update_date": "2023-03-01T09:23:03Z",
+        "coming_soon_date": null,
+        "photos": [
+            {
+                "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m4066244199s.jpg"
+            },
+            {
+                "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m1009065971s.jpg"
+            }
+        ],
+        "tags": [
+            "central_air",
+            "central_heat",
+            "dishwasher",
+            "fireplace",
+            "two_or_more_stories",
+            "garage_1_or_more",
+            "garage_2_or_more",
+            "open_house",
+            "shopping"
+        ],
+        "branding": [
+            {
+                "type": "Office",
+                "photo": null,
+                "name": "Sierra Central Real Estate"
+            }
+        ],
+        "home_photos": {
+            "collection": [
+                {
+                    "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m4066244199s.jpg"
+                },
+                {
+                    "href": "https://ap.rdcpix.com/8d3614fc2ca50ad635c8c39c2f9cab8bl-m1009065971s.jpg"
+                }
+            ],
+            "count": 2
+        }
+    }
+]
